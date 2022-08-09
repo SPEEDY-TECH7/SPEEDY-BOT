@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.jpg" alt="Eva Maria Logo">
+  <img src="Phone/Documents/pixelLab/ 20220717_203906.png" alt="Speedy Logo">
 </p>
 <h1 align="center">
   <b>Speedy Bot</b>
