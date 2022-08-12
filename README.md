@@ -1,18 +1,18 @@
 <p align="center">
-  <img src="Phone/Documents/pixelLab/ 20220717_203906.png" alt="Speedy Logo">
+  <img src="assets/logo.jpg" alt="Eva Maria Logo">
 </p>
 <h1 align="center">
-  <b>Speedy Bot</b>
+  <b>SPEEDY Bot</b>
 </h1>
 
 
-[![Stars](https://img.shields.io/github/stars/speedykpm/speedy-bot?style=flat-square&color=yellow)](https://github.com/Speedykpm/speedy-Bot/stargazers)
-[![Forks](https://img.shields.io/github/forks/Speedykpm/SPEEDY-BOT?style=flat-square&color=orange)](https://github.com/Speedykpm/SPEEDY-BOT/fork)
-[![Size](https://img.shields.io/github/repo-size/Speedykpm/SPEEDY-BOT?style=flat-square&color=green)](https://github.com/Speedykpm/SPEEDY-BOT/)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Speedykpm/SPEEDY-BOT)   
-[![Contributors](https://img.shields.io/github/contributors/Speedykpm/SPEEDY-BOT?style=flat-square&color=green)](https://github.com/Speedykpm/SPEEDY-BOT/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/Speedykpm/SPEEDY-BOT/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/Speedykpm/SPEEDY-BOT.svg)](https://stars.medv.io/Speedykpm/SPEEDY-BOT)
+[![Stars](https://img.shields.io/github/stars/EvamariaTG/EvaMaria?style=flat-square&color=yellow)](https://github.com/EvamariaTG/EvaMaria/stargazers)
+[![Forks](https://img.shields.io/github/forks/EvamariaTG/EvaMaria?style=flat-square&color=orange)](https://github.com/EvamariaTG/EvaMaria/fork)
+[![Size](https://img.shields.io/github/repo-size/EvamariaTG/EvaMaria?style=flat-square&color=green)](https://github.com/EvamariaTG/EvaMaria/)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/EvamariaTG/EvaMaria)   
+[![Contributors](https://img.shields.io/github/contributors/EvamariaTG/EvaMaria?style=flat-square&color=green)](https://github.com/EvamariaTG/EvaMaria/graphs/contributors)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/EvamariaTG/EvaMaria/blob/main/LICENSE)
+[![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/EvamariaTG/EvaMaria)
 
 
 ## Features
@@ -105,11 +105,11 @@ python3 bot.py
 • /link - to create link for one post
 ```
 ## Support
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/EvaMariaSupport)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/TeamEvamaria)
+[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/SPEEDY_LinkZ)
+[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/SPEEDY_LinkZ)
 
 ## Credits 
-* [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
+* [![SPEEDY-LinkZ](https://img.shields.io/static/v1?label=SPEEDY&message=LinkZ&color=critical)](https://telegram.dog/SPEEDY_LinkZ)
 
 
 ## Thanks to 
